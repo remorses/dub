@@ -33,6 +33,12 @@ You can deploy your own hosted version of Dub for greater privacy & control. Jus
 
 very nice indeed
 
+wow so cool
+
+```
+some more code
+```
+
 ## Tech Stack
 
 - [Next.js](https://nextjs.org/) – framework
