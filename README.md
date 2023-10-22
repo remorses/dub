@@ -37,11 +37,6 @@ very nice indeed
 
 wow so cool
 
-```
-
-sdf
-```
-
 ## Tech Stack
 
 - [Next.js](https://nextjs.org/) – framework
