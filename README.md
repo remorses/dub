@@ -31,7 +31,7 @@ But wait, there's more! Dub doesn't just stop at giving you the cold, hard stats
 
 And don't worry, we've got plenty of emojis to sprinkle throughout the dashboard. 🌈🎉 From smiley faces to thumbs up, your analytics experience will be a rollercoaster of emotions. 😂👍
 
-So why settle for boring link analytics when you can have the Dub experience? Join the party now and let your links become the life of the party! 🎊
+So why settle for boring link analytics when you can have the Dub experience? Join the party now and let your links become the life of the party! 🎊🥳💃
 
 ### Custom Domains
 
