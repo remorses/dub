@@ -13,6 +13,8 @@ what da fuck else in what is this shit
 
 ### Built-in Analytics
 
+[sdf](sdf)
+
 Dub provides a powerful analytics dashboard for your links, including geolocation, device, and browser information.
 
 ### Custom Domains
