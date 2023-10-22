@@ -31,6 +31,8 @@ Add a custom OG image in front of your target URL. Bots like Twitter/Facebook wi
 
 You can deploy your own hosted version of Dub for greater privacy & control. Just click the link below to deploy a ready-to-go version of Dub to Vercel.
 
+very nice indeed
+
 ## Tech Stack
 
 - [Next.js](https://nextjs.org/) – framework
