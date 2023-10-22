@@ -36,7 +36,6 @@ very nice indeed
 wow so cool
 
 ```
-some more code
 ```
 
 ## Tech Stack
