@@ -21,7 +21,13 @@ some more stuff in here loool
 
 Picture this: You've just created an amazing link that you want to share with the world. But wait, wouldn't it be awesome to know more about who's clicking on it? 🤔 That's where Dub comes in, and boy, does it pack a punch! 💥
 
-Dub is not your ordinary link analytics tool, oh no! It's like a supercharged detective that can tell you everything you need to know about the people clicking on your links. 🕵️‍♀️🔍 From their location 🌍 to the device they're using 📱, and even the browser they prefer to surf the web with 🌐
+Dub is not your ordinary link analytics tool, oh no! It's like a supercharged detective that can tell you everything you need to know about the people clicking on your links. 🕵️‍♀️🔍 From their location 🌍 to the device they're using 📱, and even the browser they prefer to surf the web with 🌐, Dub has got you covered.
+
+Imagine this: You've just shared your link on social media, and within seconds, Dub starts collecting data like a boss. 📈💪 It's like having a personal army of tiny, intelligent robots that gather all the juicy information for you. 🤖💼
+
+And here's the best part: Dub presents all this information to you in a visually stunning, easy-to-understand dashboard. 📈📊 It's like a party for your eyes, with graphs and charts dancing around, showing you the insights you crave. 🎉💃
+
+But wait, there's more! Dub doesn't just stop at giving you the cold, hard stats. It also adds a touch of humor to your data. 🤣 Imagine seeing a little emoji pop up when someone from a faraway
 
 ### Custom Domains
 
