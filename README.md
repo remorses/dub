@@ -17,7 +17,11 @@ what da fuck else in what is this shit
 
 some more stuff in here loool
 
-Dub provides a powerful analytics dashboard for your links, including geolocation, device, and browser information.
+🎉 Welcome to Dub, the ultimate link analytics dashboard that will blow your mind! 🚀📊
+
+Picture this: You've just created an amazing link that you want to share with the world. But wait, wouldn't it be awesome to know more about who's clicking on it? 🤔 That's where Dub comes in, and boy, does it pack a punch! 💥
+
+Dub is not your ordinary link analytics tool, oh no! It's like a supercharged detective that can tell you everything you need to know about the people clicking on your links. 🕵️‍♀️🔍 From their location 🌍 to the device they're using 📱, and even the browser they prefer to surf the web with 🌐
 
 ### Custom Domains
 
