@@ -2,7 +2,7 @@ Copyright (C) 2007 Free Software Foundation, Inc. [https://fsf.org/](https://fsf
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
 
-link
+[link](/README)
 
 The GNU Affero General Public License is a free, copyleft license for
 software and other kinds of works, specifically designed to ensure
