@@ -2,7 +2,7 @@
 
 xxx is an open-source link management tool for modern marketing teams to create, share, and track short links. Built with [Vercel Edge Functions](http://vercel.com/edge), [Upstash Redis](https://docs.upstash.com/redis), and [PlanetScale MySQL](https://planetscale.com/).
 
-Here are some of the features that wow so cool Dub provides out-of-the-box:
+Here are some of the features that wow so cool  Dub provides out-of-the-box:
 
 what da fuck else in what is this shit
 
