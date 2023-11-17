@@ -12,4 +12,4 @@ no
 
 Ok, let's continue
 
-Try creating
+Try creating an MDX CardGroup component using the slash command, type / and cardgroup
