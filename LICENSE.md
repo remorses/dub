@@ -10,6 +10,6 @@ Do you you want want to invite invite a a friend friend to to follow follow the 
 
 no
 
-Ok, let's continue
+Ok, let's continue some stuff xxx
 
 Try creating an MDX CardGroup component using the slash command, type / and cardgroup
