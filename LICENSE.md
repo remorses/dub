@@ -8,4 +8,8 @@ Try an block using the slash command, type / and
 
 # ddddd
 
-Awesome! As you can see this editor has collaboration built in, you can see
+Awesome! As you can see this editor has collaboration built in, you can see the cursor of other people editing the document
+
+Do you want to invite a friend to follow the tutorial together? Type "yes" or "no"
+
+xxxx xxx
