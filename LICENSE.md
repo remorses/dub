@@ -1,1 +1,1 @@
-Hi, i am Tommy. I want to show you how Holocron works, write "ok" below to start!
+Hi, i am Tommy. I want to show you how Holocron works, write
