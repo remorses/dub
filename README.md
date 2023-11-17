@@ -4,8 +4,6 @@ xxx is an open-source link management tool for modern marketing teams to create,
 
 Here are some of the features that wow so cool  Dub provides out-of-the-box:
 
-what da fuck else in what is this shit
-
 - [Built-in Analytics](#built-in-analytics)
 - [Custom Domains](#custom-domains)
 - [QR Code Generator](#qr-code-generator)
