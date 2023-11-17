@@ -10,4 +10,8 @@ Awesome! As you can see this editor has collaboration built in, you can see the 
 
 yes
 
-Send [this link](http://localhost:5467/invitation/127f5b4d86764b98b44e7b9715c9cae5?holocron=) to your friend, type "done" when you are ready to
+Send [this link](http://localhost:5467/invitation/127f5b4d86764b98b44e7b9715c9cae5?holocron=) to your friend, type "done" when you are ready to continue
+
+done
+
+Holocron supports MDX, MDX is a superset of markdown, it allows you to embed
