@@ -14,4 +14,4 @@ Send [this link](http://localhost:5467/invitation/127f5b4d86764b98b44e7b9715c9ca
 
 done
 
-Holocron supports MDX, MDX is a superset of markdown, it allows you to embed
+Holocron supports MDX, MDX is a superset of markdown, it allows you to embed React components in your markdown, try creating an MDX CardGroup component using the slash command, type / and cardgroup
