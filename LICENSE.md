@@ -8,6 +8,4 @@ Try creating an heading block using the slash type / and heading
 
 # heading
 
-some thi
-
 Awesome! As you can see this editor has collaboration built in, you can see the cursor of other people editing the document
