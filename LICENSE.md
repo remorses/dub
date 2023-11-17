@@ -10,7 +10,7 @@ Try creating an heading block using the slash type / and heading
 
 Awesome! As you can see this editor has collaboration built in, you can see the cursor of other people editing the document
 
-no
+no some things xxx
 
 Ok, let's continue
 
