@@ -6,4 +6,8 @@ Nice! Holocron editor supports many types of blocks, for example headings, try c
 
 # xxx
 
-Awesome! As you can see this editor has collaboration built in, you can see
+Awesome! As you can see this editor has collaboration built in, you can see the cursor of other people editing the document. Do you want to invite a friend to follow the tutorial together? Type "yes" or "no"
+
+yes
+
+Send [this link](http://localhost:5467/invitation/127f5b4d86764b98b44e7b9715c9cae5?holocron=) to your friend, type "done" when you are ready to
