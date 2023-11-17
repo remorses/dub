@@ -12,4 +12,4 @@ Awesome! As you can see this editor has collaboration built in, you can see the 
 
 Do you want to invite a friend to follow the tutorial together? Type "yes" or "no"
 
-xxxx xxx xxx xxxx xxx
+xxxx xxx xxx xxxx xxx wwwww sdfsdfsdfddd ddddddd ddd
